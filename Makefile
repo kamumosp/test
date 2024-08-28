@@ -1,4 +1,4 @@
-# Makefile for building the project
+# Makefile for building the test project
 CC = g++ -std=c++11
 CXX_FLAGS	= -O2
 OBJ = test.o
